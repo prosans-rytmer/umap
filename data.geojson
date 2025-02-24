@@ -1,27 +1,4 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [11.123456, 58.123456]
-      },
-      "properties": {
-        "name": "Larm 1",
-        "description": "Brandlarm vid stationen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [18.654321, 59.654321]
-      },
-      "properties": {
-        "name": "Larm 2",
-        "description": "Sjöräddning pågår"
-      }
-    }
-  ]
-}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[11.1630684,58.8753597]},"properties":{"description":"Trafikolycka, två personbilar","time":"2025-02-22 22:16:30","address":"Tjärnövägen 2, Strömstad"}}
+
+{"type":"Feature","geometry":{"type":"Point","coordinates":[11.2682168,58.91894989999999]},"properties":{"description":"Trafikolycka, älg, personbil","time":"2025-02-22 23:16:30","address":"Grålösvägen 4, Skee"}}
+
