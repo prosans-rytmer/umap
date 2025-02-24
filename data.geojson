@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.123456, 59.123456]
+      },
+      "properties": {
+        "name": "Larm 1",
+        "description": "Brandlarm vid stationen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.654321, 59.654321]
+      },
+      "properties": {
+        "name": "Larm 2",
+        "description": "Sjöräddning pågår"
+      }
+    }
+  ]
+}
